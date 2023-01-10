@@ -1,6 +1,6 @@
 # Notification-System
 
-problem Statement:
+Problem Statement:
                 During peak hours,it is common to see ambulances struggling to transport patients to treatment at busy traffic intersections.Utilizing a system that can ntify the traffic police of an approaching ambulance so that he can provide a route which ambulances to quickly reach hospitals
                 
 Project Abstract      
